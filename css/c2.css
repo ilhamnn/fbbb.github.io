@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .line {
+    position: absolute;
+    width: 1307px;
+    height: 9px;
+    top: 116px;
+    left: 66px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 939px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 50px;
+    left: 687px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 50px;
+    left: 465px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .untitled {
+    position: absolute;
+    width: 158px;
+    height: 71px;
+    top: 24px;
+    left: 37px;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 197px;
+    left: 71px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffc436;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    top: 197px;
+    left: 788px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffc436;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 635px;
+    left: 62px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffc436;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer {
+    margin-bottom: 10px; /* Sesuaikan dengan preferensi Anda */
+    width: 570px;
+    height: 320px;
+    top: 270px;
+    left: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px; /* Menghilangkan gap untuk mengurangi jarak antar elemen */
+    position: relative;
+}
+
+.desktop .text {
+    margin: 0; /* Menghilangkan margin pada <p> */
+}
+
+.desktop .span {
+    color: #000000;
+    position: relative;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1; /* Sesuaikan dengan preferensi Anda */
+}
+
+
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    top: 742px;
+    left: 71px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 818px;
+    left: 71px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    top: 894px;
+    left: 71px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: absolute;
+    top: 886px;
+    left: 407px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 4.8px;
+    line-height: normal;
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 3.6px;
+  }
+  
+  .desktop .text-wrapper-11 {
+    top: 742px;
+    letter-spacing: 3.6px;
+    position: absolute;
+    left: 407px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    line-height: normal;
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 3.6px;
+  }
+  
+  .desktop .text-wrapper-12 {
+    top: 814px;
+    letter-spacing: 4.8px;
+    position: absolute;
+    left: 407px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    line-height: normal;
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 3.6px;
+  }
+  
+  .desktop .overlap-group {
+    top: 279px;
+    position: absolute;
+    width: 631px;
+    height: 328px;
+    left: 720px;
+    background-color: #ececec8f;
+    border-radius: 31px;
+  }
+  
+  .desktop .text-wrapper-13 {
+    position: absolute;
+    top: 56px;
+    left: 156px;
+    font-family: Montserrat;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-2 {
+    width: 227px;
+    height: 186px;
+    top: 111px;
+    left: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0px;
+    position: absolute;
+  }
+  
+  .desktop .span-wrapper {
+    margin: 4px;
+  }
+  
+  .desktop .text-wrapper-14 {
+    color: #000;
+    font-family: "Montserrat", sans-serif;  
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 6.4px;
+  }
+  
+
+  .desktop .icon-pencil {
+    position: absolute;
+    width: 91px;
+    height: 91px;
+    top: 36px;
+    left: 35px;
+  }
+  
+  .desktop .overlap {
+    top: 651px;
+    position: absolute;
+    width: 631px;
+    height: 328px;
+    left: 720px;
+    background-color: #ececec8f;
+    border-radius: 31px;
+  }
+  
+  .desktop .text-wrapper-15 {
+    position: absolute;
+    top: 67px;
+    left: 40px;
+    font-family: Montserrat;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer-3 {
+    width: 148px;
+    height: 137px;
+    top: 128px;
+    left: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .desktop .p {
+    margin: 4px; /* Menghilangkan margin pada <p> */
+  }
+  
+  .desktop .icon-terminal {
+    position: absolute;
+    width: 130px;
+    height: 91px;
+    top: 38px;
+    left: 460px;
+  }
+  
+  .desktop .icon-github {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 41px;
+    left: 1271px;
+  }
+  
+  nav ul :hover a{
+    color:#ffc436;
+ }
+ 
+ nav ul a{
+    color: #000000;
+    text-decoration: none;
+ }

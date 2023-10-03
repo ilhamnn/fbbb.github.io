@@ -1,0 +1,294 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1026px;
+    position: relative;
+  }
+  
+  .desktop .line {
+    position: absolute;
+    width: 1307px;
+    height: 9px;
+    top: 116px;
+    left: 66px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 939px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 50px;
+    left: 687px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 50px;
+    left: 465px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  
+  .desktop .overlap {
+    width: 1229px;
+    top: 187px;
+    left: 35px;
+    position: absolute;
+    height: 839px;
+  }
+  
+  .desktop .overlap-group {
+    width: 1227px;
+    top: 0;
+    left: 2px;
+    position: absolute;
+    height: 839px;
+  }
+  
+  .desktop .febss-ildsdy {
+    color: #000;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-size: 96px;
+    font : normal;
+    font-weight: 800;
+    line-height: normal;
+    position: absolute;
+    top: 0px;
+    left: 949px;
+    gap: 500px;
+}
+  
+  .desktop .span {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    top:180px;
+    left: 289px;
+  }
+  
+  .desktop .text-wrapper-5 {
+    color: #FFC436;
+    font-family: Montserrat;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    position: absolute;
+    top:180px;
+    left: 289px;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 172px;
+    height: 4px;
+    top: 385px;
+    left: 949px;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 399px;
+    left: 949px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .untitled {
+    position: absolute;
+    top: 0px;
+    left: 370px;
+    width: 672px;
+    height: 845px;
+    object-fit: cover;
+    flex-shrink: 0;
+    opacity: 0;
+  }
+  
+  .desktop .instagram-linkedin {
+    position: absolute;
+    top: 449px;
+    left: 949px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .INFORMATICS-STUDENTS {
+    position: absolute;
+    top: 236px;
+    left: 0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 4.8px;
+    line-height: normal;
+  }
+  
+  .desktop .flexcontainer {
+    
+    flex-direction: column;
+    position: absolute;
+    width: 424px;
+    height: 145px;
+    top: 382px;
+    left: 0;
+
+    color: #000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2 px;
+  }
+  
+  .desktop .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 3.2px;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-7 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 3.2px;
+  }
+  
+  .desktop .line-2 {
+    position: absolute;
+    width: 173px;
+    height: 4px;
+    top: 363px;
+    left: 22px;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 185px;
+    left: 2px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #ffc436;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    top: 613px;
+    left: 0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: #ffc436;
+    font-size: 16px;
+    letter-spacing: 1.6px;
+    line-height: normal;
+
+  }
+  
+  .desktop .untitled-2 {
+    position: absolute;
+    width: 158px;
+    height: 71px;
+    top: 24px;
+    left: 37px;
+  }
+  
+  .desktop .icon-github {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 41px;
+    left: 1271px;
+  }
+
+
+.desktop .objek-2 ul :hover a {
+  color:#ffc436;
+}
+
+.desktop .objek-2 ul a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.desktop .objek-1 ul :hover a {
+  color:#000000;
+}
+
+.desktop .objek-1 ul a {
+  color: #ffc436;
+  text-decoration: none;
+}
+
+.desktop .objek-3 ul :hover a {
+  color:#ffc436;
+}
+
+.desktop .objek-3 ul a {
+  color: #000000;
+  text-decoration: none;
+}

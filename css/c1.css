@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .line {
+    position: absolute;
+    width: 1307px;
+    height: 9px;
+    top: 116px;
+    left: 66px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 939px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 50px;
+    left: 687px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 50px;
+    left: 465px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 4px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .untitled {
+    position: absolute;
+    width: 158px;
+    height: 71px;
+    top: 24px;
+    left: 37px;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 1103px;
+    height: 714px;
+    top: 197px;
+    left: 99px;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1103px;
+    height: 714px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .overlap-group-2 {
+    position: absolute;
+    width: 507px;
+    height: 713px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 280px;
+    left: -161px;
+    transform: rotate(-90deg);
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 180px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .ilhsd-a {
+    position: relative;
+    top: -54px;
+    left: -135px;
+    transform: rotate(90deg);
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 180px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .span {
+    color: #000000;
+  }
+  
+  .desktop .text-wrapper-5 {
+    color: #ffc436;
+    position: relative;
+    top: -210px;
+    left: 550px;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 4px;
+    height: 713px;
+    top: 0;
+    left: 366px;
+  }
+  
+  .desktop .icon-social-linkedin {
+    height: 69px;
+    top: 301px;
+    position: absolute;
+    width: 69px;
+    left: 438px;
+  }
+  
+  .desktop .icon-social-behance {
+    height: 70px;
+    top: 434px;
+    position: absolute;
+    width: 69px;
+    left: 438px;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 438px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffc436;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .icon-instagram-icon {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 171px;
+    left: 438px;
+  }
+  
+  .desktop .icon-gmail {
+    position: absolute;
+    width: 69px;
+    height: 52px;
+    top: 569px;
+    left: 438px;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    top: 176px;
+    left: 588px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-8 {
+    top: 441px;
+    position: absolute;
+    left: 588px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-9 {
+    top: 568px;
+    position: absolute;
+    left: 588px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-10 {
+    top: 308px;
+    position: absolute;
+    left: 588px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .icon-github {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 41px;
+    left: 1271px;
+  }
+  
+  nav ul :hover a{
+    color:#ffc436;
+ }
+ 
+ nav ul a{
+    color: #000000;
+    text-decoration: none;
+ }
